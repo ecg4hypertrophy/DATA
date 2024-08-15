@@ -2,10 +2,10 @@
 - **Article:** "Electrocardiogram as a single source for early diagnosis of multi-label cardiac hypertrophy and dilation: a reduced-channel deep-learning approach for portable devices"
 - **Training Samples:** Approximately 10,000 instances.
   - **Distribution:**
-    - **LAH (Left Atrial Hypertrophy):** 47.80%
-    - **LVH (Left Ventricular Hypertrophy):** 34.24%
-    - **RAH (Right Atrial Hypertrophy):** 20.40%
-    - **RVH (Right Ventricular Hypertrophy):** 12.28%
+    - **LAH:** 47.80%
+    - **LVD/LVE:** 34.24%
+    - **RAH:** 20.40%
+    - **RVD/RVE:** 12.28%
     - **Normal:** 29.33%
 - **Test Set:** 473 instances.
 
