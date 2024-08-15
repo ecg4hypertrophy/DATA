@@ -1,0 +1,23 @@
+{
+    "disease_num": 5,
+    "conv_filter_size": 5,
+    "conv_num_filters": [64, 128, 192, 256, 320, 384],
+    "identity_block_num": [1, 1, 1, 1],
+    "conv_init": "he_normal",
+    "dropout": 0.2,
+    "leaky_relu": 0.1,
+    "dense_neurons": 64,
+
+    "learning_rate": 0.001,
+    "batch_size": 64,
+    "l2": 0.01,
+
+    "ecg_root_path": "/mnt/data1/ECG/",
+    
+    
+    "abbr_list": ["LAH", "LVH", "RAH", "RVH", "Normal"],
+    
+    "gpu":3,
+    
+    "n_folds": 5
+}
