@@ -22,4 +22,4 @@
 - **Label Format:** The label file (`label.xlsx and Test_label.xlsx`) contains binary labels where '1' indicates the presence of a specific condition in the corresponding ECG data.
 
 ### Model Information:
-- **Model Training and Testing:** The code for model training and testing is provided in `model.py`. The parameters are based on the complete training set. For the publicly available 10,000 training samples, it's recommended to reduce the number of model layers to prevent overfitting.
+- **Model Training and Testing:** The code for model training and testing is provided in `training.py`. The parameters are based on the complete training set. For the publicly available 10,000 training samples, it's recommended to reduce the number of model layers to prevent overfitting.
