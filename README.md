@@ -10,7 +10,7 @@
 - **Test Set:** 473 instances.
 
 ### Training Samples:
-- **ECG Data:** [Link to Training ECG Data](http://gofile.me/6RNPm/9Pe5KhVHO)
+- **ECG Data:** [Link to Training ECG Data](http://gofile.me/6RNPm/KKbNVOoO7)
 - **Labels:** [Link to Labels of Training set (label.xlsx)](http://gofile.me/6RNPm/ipVWwxFTX)
 
 
