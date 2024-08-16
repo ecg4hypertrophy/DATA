@@ -10,7 +10,7 @@
 - **Test Set:** 473 instances.
 
 ### Training Samples:
-- **ECG Data:** [Link to Training ECG Data]()
+- **ECG Data:** [Link to Training ECG Data](http://gofile.me/6RNPm/9Pe5KhVHO)
 - **Labels:** [Link to Labels of Training set (label.xlsx)](http://gofile.me/6RNPm/ipVWwxFTX)
 
 
@@ -20,3 +20,6 @@
 
 ### Label Information:
 - **Label Format:** The label file (`label.xlsx and Test_label.xlsx`) contains binary labels where '1' indicates the presence of a specific condition in the corresponding ECG data.
+
+### Model Information:
+- **Model Training and Testing:** The code for model training and testing is provided in `model.py`. The parameters are based on the complete training set. For the publicly available 10,000 training samples, it's recommended to reduce the number of model layers to prevent overfitting.
